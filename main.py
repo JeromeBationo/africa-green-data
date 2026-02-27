@@ -8,7 +8,7 @@ from datetime import datetime
 # --- CONFIGURATION VIA SECRETS GITHUB ---
 # Remplacez "VOTRE_PSEUDO_GITHUB" par votre vrai nom d'utilisateur GitHub
 GITHUB_TOKEN = os.environ.get('MY_GITHUB_TOKEN') 
-REPO_OWNER = "VOTRE_PSEUDO_GITHUB" 
+REPO_OWNER = "JeromeBationo" 
 REPO_NAME = "africa-green-data"
 FILE_PATH = "africa_green_data.json"
 
