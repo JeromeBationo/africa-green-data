@@ -13,11 +13,14 @@ REPO_NAME = "africa-green-data"
 FILE_PATH = "africa_green_data.json"
 
 # --- SOURCES DE DONNÉES (NEWS & DATA) ---
+# --- SOURCES DE DONNÉES ÉLARGIES ---
 RSS_SOURCES = {
     "AfDB_Environment": "https://www.afdb.org/fr/topics/environment/rss.xml",
-    "UNECA_News": "https://archive.uneca.org/fr/rss-feeds",
-    "Sustainability_Africa": "https://www.sustainabilitynewsafrica.com/feed/",
-    "Green_Economy_Africa": "https://www.unep.org/news-and-stories/rss.xml"
+    "Banque_Mondiale_Afrique": "https://www.banquemondiale.org/fr/region/afr/news/rss",
+    "Le_Monde_Afrique_Climat": "https://www.lemonde.fr/afrique-climat/rss_full.xml",
+    "Ecowas_Environment": "https://ecowas.int/fr/news/feed/",
+    "ReliefWeb_Africa": "https://reliefweb.int/updates/rss.xml?region=10&topic=461",
+    "UNEP_News": "https://www.unep.org/news-and-stories/rss.xml"
 }
 
 # API Banque Mondiale : Émissions CO2 (en tonnes par habitant) pour l'Afrique Subsaharienne
