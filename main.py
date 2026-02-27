@@ -20,7 +20,10 @@ RSS_SOURCES = {
     "Le_Monde_Afrique_Climat": "https://www.lemonde.fr/afrique-climat/rss_full.xml",
     "Ecowas_Environment": "https://ecowas.int/fr/news/feed/",
     "ReliefWeb_Africa": "https://reliefweb.int/updates/rss.xml?region=10&topic=461",
-    "UNEP_News": "https://www.unep.org/news-and-stories/rss.xml"
+    "UNEP_News": "https://www.unep.org/news-and-stories/rss.xml", 
+    "http://unfcc.int/inc/items/4051.php",
+    "https://www.nature.com/nclimate/web-feeds",
+    "https://climatechangenews.com"
 }
 
 # API Banque Mondiale : Émissions CO2 (en tonnes par habitant) pour l'Afrique Subsaharienne
